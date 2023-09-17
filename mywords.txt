@@ -1,0 +1,10 @@
+cat
+dog
+mit
+# Veggies
+kale
+parsnips
+
+# Fruits
+apple
+mango
